@@ -1,4 +1,4 @@
-{
+[
   {
     "organisme": "ABC",
     "Nombre de participants": 380,
@@ -27,4 +27,4 @@
     "Nombre de formulaires completes": 17,
     "Nombre de signalement": 146
   }
-}
+]
